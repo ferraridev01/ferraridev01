@@ -19,7 +19,7 @@ Portuguese is my native language, I am fluent in Italian, and I have strong prof
 - Git / GitHub
 - Docker
 
-## Current Projects
+## Upcoming Projects
 - File Organizer
 - Python Job Tracker
 - Price Scraper and Automatic Report
