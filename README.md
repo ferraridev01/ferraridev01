@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yan!
 
-<!--
-**ferraridev01/ferraridev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer focused on Automation, Backend Development and Web Scraping.
 
-Here are some ideas to get you started:
+I am currently building projects with Python, FastAPI, SQL and process automation while preparing for remote opportunities in Europe and Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have Italian citizenship and I am fluent in Italian, English and French. Portuguese is my native language.
+
+## Main Technologies
+- Python
+- FastAPI
+- SQL / PostgreSQL
+- Web Scraping
+- Automation
+- Git / GitHub
+- Docker
+
+## Current Projects
+- File Organizer
+- Python Job Tracker
+- Price Scraper and Automatic Report
+- FastAPI Task Manager
+
+## Goals
+- Build a strong Python portfolio
+- Start working as a freelance Python developer
+- Get a remote Python Developer position in Europe
+
+## Contact
+- LinkedIn: [Yan Rosa Ferrari](https://www.linkedin.com/in/yan-rosa-ferrari-300584356)
+- Email: yanferrari26@gmail.com
