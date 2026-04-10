@@ -2,7 +2,7 @@
 
 Python developer focused on automation, backend development and web scraping.
 
-Currently building projects with Python, FastAPI, SQL and automation while preparing for remote opportunities in Europe and Brazil.
+Currently building practical projects with Python, FastAPI, SQL and automation while preparing for remote opportunities in Europe and Brazil.
 
 Portuguese is my native language, I am fluent in Italian, and I have strong professional working proficiency in English and French.
 
