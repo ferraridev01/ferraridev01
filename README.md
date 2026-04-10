@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.jpeg" width="100%" />
+</p>
+
 # Hi, I'm Yan Rosa Ferrari
 
 Python developer focused on automation, backend development and web scraping.
