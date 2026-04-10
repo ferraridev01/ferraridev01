@@ -4,7 +4,7 @@ Python Developer focused on Automation, Backend Development and Web Scraping.
 
 I am currently building projects with Python, FastAPI, SQL and process automation while preparing for remote opportunities in Europe and Brazil.
 
-I have Italian citizenship and I am fluent in Italian, English and French. Portuguese is my native language.
+I have Italian citizenship and Portuguese is my native language, I am fluent in Italian, and I have strong professional working proficiency in English and French.
 
 ## Main Technologies
 - Python
