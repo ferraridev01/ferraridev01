@@ -1,10 +1,10 @@
-# Hi, I'm Yan!
+# Hi, I'm Yan Rosa Ferrari
 
-Python Developer focused on Automation, Backend Development and Web Scraping.
+Python developer focused on automation, backend development and web scraping.
 
-I am currently building projects with Python, FastAPI, SQL and process automation while preparing for remote opportunities in Europe and Brazil.
+Currently building projects with Python, FastAPI, SQL and automation while preparing for remote opportunities in Europe and Brazil.
 
-I have Italian citizenship and Portuguese is my native language, I am fluent in Italian, and I have strong professional working proficiency in English and French.
+Portuguese is my native language, I am fluent in Italian, and I have strong professional working proficiency in English and French.
 
 ## Main Technologies
 - Python
@@ -27,5 +27,4 @@ I have Italian citizenship and Portuguese is my native language, I am fluent in 
 - Get a remote Python Developer position in Europe
 
 ## Contact
-- LinkedIn: [Yan Rosa Ferrari](https://www.linkedin.com/in/yan-rosa-ferrari-300584356)
-- Email: yanferrari26@gmail.com
+- LinkedIn: [Yan Rosa Ferrari](https://www.linkedin.com/in/yan-rosa-ferrari-300584356/)
